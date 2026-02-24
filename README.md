@@ -1,8 +1,14 @@
 # Proje Adı
 
-## Preview
+Bu proje, Kotlin kullanılarak geliştirilmiş bir Android uygulamasıdır.
+
+## Önizleme (Preview)
+
 ### Login Screen
-![Login](indir (3).webp)
+![Giriş Ekranı](indir (3).webp)
 
 ### Main Menu
-![Ana Menü](yüklediğin_diğer_resmin_adı.png)
+![Ana Menü](OIP (1).webp)
+
+### Profile Screen
+![Profil Ekranı](OIP (3).webp)
